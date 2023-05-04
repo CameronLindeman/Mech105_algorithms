@@ -3,7 +3,7 @@
   * [root,fx,ea,iter] = bisect(func,xl,xu,es,maxit, p1,p1...):
       * Uses bisection method to find the root of the function
 * Input:
- *  func = name of function
+  *  func = name of function
   *  xl,xu = lower and upper guesses
   * es = desired relative error (default = 0.0001%)
   * maxit = maximum allowable iterations (default = 50)
