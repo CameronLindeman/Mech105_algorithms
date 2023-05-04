@@ -3,6 +3,6 @@
   * -A is the coefficient matrix of the systems of equations
   * -x is the condition matrix
   * -b is the stimulus matrix for the systems of equations
-*outputs:
+* outputs:
   * - a matrix that results in the solution for the systems of 
 equations
