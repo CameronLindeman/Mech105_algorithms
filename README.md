@@ -1,5 +1,1 @@
-I am now doing this on my computer
-
-
-Hi nick I am editing this on the internet and not on my computer
-
+This is a repository that holds all of the algorithms that I have created during my freshman year for intro to mechanical engineering 105 with Dr. Bechara as my professor. All the files that are included are made for solving numerical methods for different techniques of calculus and engieering.
